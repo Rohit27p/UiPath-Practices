@@ -1,0 +1,69 @@
+b l e p l S l I ®|
+Software Robots - the Virtual Workforce
+Pre-Requisites
+0 Blue Prism installed locally (version 6 or greater)
+0 Valid Blue Prism license
+0 New Blue Prism database —This can be a local SQL Express DB or an SQL Server DB. It must not be a shared
+database and access must be for the trainee only.
+0 Blue Prism access credentials for the trainee. The trainee must have full privileges within Blue Prism. The
+default admin ID can be used.
+Training Applications
+Surface Automation training requires two training applications:
+0 lmageLoader.exe
+0 Surface Automation Training.exe
+The Surface Automation — Basic course and the Surface Automation —Advanced course require both applications,
+so you will need to setup both applications even if you are only ta king one of the courses.
+Both are Windows applications and neither require an ”WWWMW" 7 - '3 x
+installer. Simply copy the files to a Windows folder. [MTW — ]
+The Surface Automation V6 Self-Setup.zip file contains the | Application Model belangstothis object I
+training applications, image files, application data files and gamma»... Mm...“ ~
+base Objects_ l;::::;:::;pmum XI [ThinCIierrtAnpliution l
+Llaginsueen . .
+Save the *.xml, *.png, *.exe files to the default path j“"'”f’f’"'°‘"°’”““°":“"‘°":"“'" , ,
+”C:\BluePrlsm\Trainlng\Appllcati0nS\SUrface Automation IIC:\Blu¢PrIsm\l’raInlnMpIIauonsBurfauAutomatlonTral rBrowsc... [I
+Training” ﬁgmmﬁmwmm(ﬂw)bbepassedhmwget
+The files can be saved to an alternative location but if doing ' I
+so you must update the ﬁle location in application modeller 3 '5'““WWWMM‘WP”‘“"““‘"“ |
+for the advanced training course.
+Restrtcno noun/aslve ammauontecmlques
+Do this by opening the object Thin Client Application — Login,
+accessing Application Modeller and providing the alternate 12333;“:Wm vl
+file path. 7
+Prwide the time that the objeotuill waitfot the application in respond before
+. Mowinganuceoﬁon
+Base Objects MEMEMEME v
+Finally, you’ll need to import the Blue Prism base objects as [mama] l mm 1 | um “Diagnostksl | Applamm |
+these are referenced throughout the advanced training LOLH 5...... leL]
+course' Figure 1 Changing the location of the Surface Automation
+Import the release file Surface Automation Training - Base Tm’mng'exeﬁle
+Objects.bprelease into Blue Prism via the File-Import menu.
+Commercial in Confidence Page 1 of 2
+®Blue Prism is a registered trademark of Blue Prism Limitedb l e p l S l I ®|
+Software Robots - the Virtual Workforce
+Using lmageLoader
+The ImageLoader application is required for both Surface Automation courses. Double click ImageLoader. exe to
+launch the ImageLoader and the image container will be visible.
+| Image Loader - l] X l l'mg'lm" " D xll
+Billing’
+I] Check Documents
+ﬂgiperiod l l mil l E}
+VDocumenlNo. l l mil l E}
+VContract l l mil l E
+No. of billing run l l In il l Ii
+mgVaiidau‘on l l ‘0 il l I”:
+Manualos In Billing l l '0 l l a
+whirl/Code ] I In I ] [‘1
+Division l l '0 l l a
+new reading unit I I I0 I l a
+lrwoking7
+[3 Check Document:
+I VDotumentNo. l l i0 l l |
+mgvalidahon l l Ll l E
+rmnual 08 In Invoic. I l Ll l E
+. " Browse... ll Previous N Next I [Winn libmf' ME I 74:]
+When instructed during the training to load an image click the Browse button and navigate to the folder where you
+saved your exercise images.
+You can load more than one image at a time and use the previous and next buttons to navigate between them.
+Each time you launch ImageLoader you will need to reload your images.
+Commercial in Confidence Page 2 of 2
+®Blue Prism is a registered trademark of Blue Prism Limited
